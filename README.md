@@ -8,7 +8,7 @@ Web tictactoe game based on node.js and websocket
 Clone the repository and install dependencies.
 
 ```
-git clone https://github.com/juchi/tictactoe.git
+git clone https://github.com/Rohini6800/TicTacToe.git
 cd tictactoe
 npm install
 ```
